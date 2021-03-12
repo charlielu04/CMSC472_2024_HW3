@@ -29,7 +29,7 @@ This assignment is a challenge. How exciting! As in Homework 2, this is a binary
 # Challenge Rules
 
 1. You **MUST** submit a results file on ELMS. Details are provided in Section 8 of this notebook.
-2. You **MAY NOT** deviate from neither of the **number of layers** nor the **number of parameters** in each layer from Assignment 2. Feel free to ask questions by making a *Public* post in either Piazza or Slack if you are unsure if a given change is allowed or not.
+2. You **MAY NOT** deviate from neither of the **number of layers** nor the **number of parameters** in each layer from Assignment 2. 
 3. You **MAY NOT** attempt to manually label the test images. We want to evaluate the performance of your neural classification network, not your classification ability.
 4. You should try to achieve at least **75%** validation accuracy.
 
