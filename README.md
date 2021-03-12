@@ -33,6 +33,14 @@ This assignment is a challenge. How exciting! As in Homework 2, this is a binary
 3. You **MAY NOT** attempt to manually label the test images. We want to evaluate the performance of your neural classification network, not your classification ability.
 4. You should try to achieve at least **75%** validation accuracy (Baseline).
 
+# Leaderboard 
+
+Things just got more interesting! The top-10 testset accuracies in class will be displayed in a leaderboard which will be updated twice:
+1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 in ELMS by **March 26 5.00pm**.
+2. Final round: After your final submission.
+
+There are no points for the intermediate round. Find the nickname rules under section 8.
+
 ## Submission
 
 For Assignment 3, there are a few  explaination questions asked which needs to be answered apart from the coding questions. 
