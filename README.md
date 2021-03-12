@@ -24,7 +24,7 @@ This assignment is a challenge. How exciting! As in Homework 2, this is a binary
 # Leaderboard 
 
 Things just got more interesting! The top-10 testset accuracies in class will be displayed in a leaderboard which will be updated twice:
-1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 in ELMS by **March 26 5.00pm**. Find the nickname rules under section 8.
+1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 to ELMS by **March 26 5.00pm**. Find the nickname rules under section 8.
 2. Final round: After your final submission.
 
 **Submissions with the top-3 accuracies in class on the *testset* during the *final round* will win lucrative ~~cash prizes~~ bonus points!**
