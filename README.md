@@ -10,7 +10,7 @@ For Assignment 3, you will use hw3.ipynb to learn PyTorch while trying to create
 
 - Find a way to improve the performance of your network above our baseline.
 
-- Compete for the best performance on a held-out test set.
+- Compete for the best performance on a held-out testset.
 
 ## Download the data file
 
@@ -20,7 +20,7 @@ Download the data file [here](https://umd.instructure.com/files/61778860/downloa
 
 This assignment is a challenge. How exciting! As in Homework 2, this is a binary classification problem, where your network will learn to discriminate birds from other things. We have curated a special dataset, new to this assignment, consisting of birds and non-birds. As before, we provide you with train and validation images and labels. However, for the test set, we only give you test images! (No labels!) Your goal is to try to get the best classification performance in the class on these test images.
 
-#### The submissions with the top-3 accuracies in class on the *test set* will win lucrative ~~cash prizes~~ bonus points!
+#### The submissions with the top-3 accuracies in class on the *testset* will win lucrative ~~cash prizes~~ bonus points!
 
 * **Winner:** 20 bonus points 
 * **Runners-up:** 10 bonus points 
