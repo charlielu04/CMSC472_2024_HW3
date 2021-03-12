@@ -20,11 +20,21 @@ Download the data file [here](https://umd.instructure.com/files/61778860/downloa
 
 This assignment is a challenge. How exciting! As in Homework 2, this is a binary classification problem, where your network will learn to discriminate birds from other things. We have curated a special dataset, new to this assignment, consisting of birds and non-birds. As before, we provide you with train and validation images and labels. However, for the test set, we only give you test images! (No labels!) Your goal is to try to get the best classification performance in the class on these test images.
 
-#### The submissions with the top-3 accuracies in class on the *testset* will win lucrative ~~cash prizes~~ bonus points!
+
+# Leaderboard 
+
+Things just got more interesting! The top-10 testset accuracies in class will be displayed in a leaderboard which will be updated twice:
+1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 in ELMS by **March 26 5.00pm**. Find the nickname rules under section 8.
+2. Final round: After your final submission.
+
+##### **Submissions with the top-3 accuracies in class on the *testset* during the *final round* will win lucrative ~~cash prizes~~ bonus points!**
 
 * **Winner:** 20 bonus points 
 * **Runners-up:** 10 bonus points 
 * **Second Runners-up:** 5 bonus points 
+
+##### **Submissions with the top-3 accuracies in class on the *testset* during the *intermediate round* will win 5 bonus points each!**
+
 
 # Challenge Rules
 
