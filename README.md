@@ -27,13 +27,13 @@ Things just got more interesting! The top-10 testset accuracies in class will be
 1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 in ELMS by **March 26 5.00pm**. Find the nickname rules under section 8.
 2. Final round: After your final submission.
 
-##### **Submissions with the top-3 accuracies in class on the *testset* during the *final round* will win lucrative ~~cash prizes~~ bonus points!**
+**Submissions with the top-3 accuracies in class on the *testset* during the *final round* will win lucrative ~~cash prizes~~ bonus points!**
 
 * **Winner:** 20 bonus points 
 * **Runners-up:** 10 bonus points 
 * **Second Runners-up:** 5 bonus points 
 
-##### **Submissions with the top-3 accuracies in class on the *testset* during the *intermediate round* will win 5 bonus points each!**
+**Submissions with the top-3 accuracies in class on the *testset* during the *intermediate round* will win 5 bonus points each!**
 
 
 # Challenge Rules
