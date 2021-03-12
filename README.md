@@ -39,7 +39,7 @@ Things just got more interesting! The top-10 testset accuracies in class will be
 # Challenge Rules
 
 1. You **MUST** submit a results file on ELMS. Details are provided in Section 8 of this notebook.
-2. You **MAY NOT** deviate from neither of the **number of layers** nor the **number of parameters** in each layer from Assignment 2. 
+2. You **MAY NOT** deviate from neither of the **number of layers (2)** nor the **number of parameters (hidden layer size = 7)** in each layer from Assignment 2. 
 3. You **MAY NOT** attempt to manually label the test images. We want to evaluate the performance of your neural classification network, not your classification ability.
 4. You should try to achieve at least **75%** validation accuracy (Baseline).
 
