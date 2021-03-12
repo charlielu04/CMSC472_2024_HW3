@@ -1,18 +1,37 @@
 # CMSC472 Assignment 3
 
-For Assignment 3, you will use hw3.ipynb to create a two-layer neural network with PyTorch. You will implement all the building blocks of a neural network and use these building blocks to build a neural network that performs image and text classification.  By completing this assignment you will:
+For Assignment 3, you will use hw3.ipynb to learn PyTorch while trying to create a bird vs. non-bird classifier. More specifically, you will:
 
-- Develop an intuition of the over all structure of a neural network.
+- Write a Dataset class in PyTorch.
 
-- Write functions (e.g. forward propagation, backward propagation, logistic loss, etc...) that would help you decompose your code and ease the process of building a neural network.
+- Define a neural network in PyTorch.
 
-- Initialize/update parameters according to your desired structure.
+- Implement training and testing loops in PyTorch.
+
+- Find a way to improve the performance of your network above our baseline.
+
+- Compete for the best performance on a held-out test set.
 
 ## Download the data file
 
 Download the data file [here](https://umd.instructure.com/files/61778860/download?download_frd=1). Make sure that you are logged in to ELMS before downloading.
 
+# Challenge Description
 
+This assignment is a challenge. How exciting! As in Homework 2, this is a binary classification problem, where your network will learn to discriminate birds from other things. We have curated a special dataset, new to this assignment, consisting of birds and non-birds. As before, we provide you with train and validation images and labels. However, for the test set, we only give you test images! (No labels!) Your goal is to try to get the best classification performance in the class on these test images.
+
+#### The submissions with the top-3 accuracies in class on the *test set* will win lucrative ~~cash prizes~~ bonus points!
+
+* **Winner:** 20 bonus points 
+* **Runners-up:** 10 bonus points 
+* **Second Runners-up:** 5 bonus points 
+
+# Challenge Rules
+
+1. You **MUST** submit a results file on ELMS. Details are provided in Section 8 of this notebook.
+2. You **MAY NOT** deviate from neither of the **number of layers** nor the **number of parameters** in each layer from Assignment 2. Feel free to ask questions by making a *Public* post in either Piazza or Slack if you are unsure if a given change is allowed or not.
+3. You **MAY NOT** attempt to manually label the test images. We want to evaluate the performance of your neural classification network, not your classification ability.
+4. You should try to achieve at least **75%** validation accuracy.
 
 ## Submission
 
