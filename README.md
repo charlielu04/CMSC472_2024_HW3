@@ -55,7 +55,7 @@ There are no points for the intermediate round. Find the nickname rules under se
 
 For Assignment 3, there are a few  explaination questions asked which needs to be answered apart from the coding questions. 
 
-Submission needs to be done on Gradescope. Upload the iPython notebook to Google Drive (do not forget to give access). Now, get the share link for the ipython notebook and embed it inside the notebook (you can do this by opening the notebook on the drive using Google Colab).  Please generate a PDF from the iPython notebook and upload it to Gradescope. Please make sure that the PDF contains the link to the Google Drive share otherwise the assignment may not be graded. 
+Submission needs to be done on Gradescope. Upload the iPython notebook to Google Drive (do not forget to give access). Now, get the share link for the ipython notebook and embed it inside the notebook (you can do this by opening the notebook on the drive using Google Colab).  Please generate a PDF from the iPython notebook and upload it to Gradescope. Please make sure that the PDF contains the link to the Google Drive share otherwise the assignment may not be graded. **Make sure to submit the results file to ELMS as well**.
 
 ## Deadline
 
