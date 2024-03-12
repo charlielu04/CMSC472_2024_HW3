@@ -14,7 +14,7 @@ For Assignment 3, you will use hw3.ipynb to learn PyTorch while trying to create
 
 ## Download the data file
 
-Download the data file [here](https://umd.instructure.com/files/72195654/download?download_frd=1). Make sure that you are logged in to ELMS before downloading.
+Download the data file [here](https://umd.instructure.com/files/77640124/download?download_frd=1). Make sure that you are logged in to ELMS before downloading.
 
 # Challenge Description
 
@@ -24,7 +24,7 @@ This assignment is a challenge. How exciting! As in Homework 2, this is a binary
 # Leaderboard 
 
 Things just got more interesting! The top-10 testset accuracies in class will be displayed in a leaderboard which will be updated twice:
-1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 to ELMS by **March 6 5.00pm**. Find the nickname rules under section 8.
+1. Intermediate round: Submit your `challenge_3_results_nickname.pth` from exercise 8 to ELMS by **March 19 5.00pm**. Find the nickname rules under section 8.
 2. Final round: After your final submission.
 
 **Submissions with the top-3 accuracies in class on the *testset* during the *final round* will win lucrative ~~cash prizes~~ bonus points!**
@@ -51,7 +51,7 @@ Submission needs to be done on Gradescope. Upload the iPython notebook to Google
 
 ## Deadline
 
-Assignment 3 is due on **March 9 at 5:00pm**.  
+Assignment 3 is due on **March 26 at 5:00pm**.  
 
 None of the parts of this assignment require the use of a machine with a GPU. You may complete the assignment using your local machine or you may use Google Colaboratory. However, we encourage you to try using Google Colaboratory and get familiar with it as it would be helpful in upcoming assignments.
 
